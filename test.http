@@ -5,7 +5,7 @@ Accept: application/json
 Content-Type: application/json
 
 {
-  "username": "me",
+  "username": "admin",
   "password": "password",
-  "role": "USER"
+  "role": "USER,ADMIN"
 }
